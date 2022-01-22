@@ -4,7 +4,7 @@ require('styles/main.scss');
 import $ from 'jquery';
 import { log, logTitle } from 'logger';
 /* your imports */
-logTitle('Title')
+logTitle('Javascript Practice Morteza Torkashvand')
 /* coding examples */
 
 
